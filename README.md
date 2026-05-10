@@ -200,10 +200,12 @@ wireshark-netsupport-rat-analysis/
     ├── 01-protocol-hierarchy.png
     ├── 02-conversations-tcp.png
     ├── 03-c2-post-beacon.png
-    ├── 04-kerberos-username.png
-    ├── 05-smb-hostname.png
-    ├── 06-arp-mac-address.png
-    └── 07-samr-full-name.png
+    ├── 04-c2-http-filtering.png
+    ├── 05-kerberos-username.png
+    ├── 06-kerberos-as-req.png
+    ├── 07-smb-hostname.png
+    ├── 08-arp-mac-address.png
+    └── 09-samr-full-name.png
 ```
 
 ---
